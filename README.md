@@ -58,11 +58,24 @@ plt.title("Customer Segments")
 
 ## Output:
 ## Data Head:
+![image](https://user-images.githubusercontent.com/94165326/173091446-d9a3c3ed-4a67-4d1e-979f-85a506b346eb.png)
+
+
 ## Data Information:
+![image](https://user-images.githubusercontent.com/94165326/173091544-13667ac1-8935-4cba-9f23-4b144d2c14e0.png)
+
+
 ## Isnull:
+![image](https://user-images.githubusercontent.com/94165326/173091753-6f224732-3a5e-47df-a726-480b9934e81c.png)
+
+
 ## Elbow Method:
+![image](https://user-images.githubusercontent.com/94165326/173091793-3639f8b9-8293-45cc-9acb-fccafc312a27.png)
+
+
 ## Clusters:
 ## Customer segments:
+![image](https://user-images.githubusercontent.com/94165326/173091844-c0f128b3-d60a-4ba8-8d1b-253d14cc9530.png)
 
 
 ## Result:
